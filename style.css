@@ -20,13 +20,13 @@ div{
 }
 
 #Color1{
-    background-color: red;
-}
-
-#Color2{
     background-color: white;
 }
 
+#Color2{
+    background-color: lightblue;
+}
+
 #Color3{
-    background-color:blue;
+    background-color:lightcyan;
 }
